@@ -1,7 +1,7 @@
 import json
 import os
 import openai
-openai.api_key = "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"
+openai.api_key = "Your api key"
 #user information
 name= "My name is "+ input("Your name is:")
 user_job="I want to apply for the position of "+input("What job do you want to apply for?:")
